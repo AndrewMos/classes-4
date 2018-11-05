@@ -204,11 +204,17 @@ This shows your other branch. Because it contains work that is NOT merged in yet
       <li>git reset HEAD</li>
 
       <li>gitk -all</li>
-
+	 <h2>
+    		Show all refs (branches, tags, etc.) using GUI.
+  	</h2>
       <li>git branch "branch" "commit hash"</li>
 
       <li>git pull "remote" "branch"</li>
-
+	 <h2>
+   		 Fetch chosen remote branch and merge it to local copy. 
+  	</h2>
+	
+	
     </ul>
   </div>
 </div>
